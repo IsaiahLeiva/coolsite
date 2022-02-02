@@ -1,0 +1,65 @@
+header{
+    padding: .8rem;
+    background-color: blue;
+    text-align: center;
+    margin: -1rem;
+    color: white;
+    border: black 10px;
+    margin-bottom: 2rem;
+}
+
+main{
+    display: flex;
+    background-color: white;
+    margin-left: 20rem;
+}
+
+.main-section{
+    text-align: left;
+    padding-right: 1%;
+    margin-left: 3%;
+}
+
+.right-section{
+    padding-left: 2%;
+    margin-right: 10%;
+}
+
+.article{
+    text-align: left;
+}
+
+.article-photo{
+    height: 200px;
+    width: 300px;
+}
+
+.designers{
+    border: 2rem solid lightblue;
+    border-bottom: 1rem;
+    margin-right: 23%;
+    margin-left: 23%;
+}
+
+.subtitle{
+    text-align: center;
+    margin-bottom: 6%;  
+}
+
+.main-title{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.main-text{
+    text-align: left;
+    max-width: 80%;
+    padding-left: 10%;
+}
+
+footer{
+    background-color: blue;
+    padding: 8%;
+    margin-top: 5%;
+    border: black 5px;
+}
